@@ -1,0 +1,7 @@
+
+Memory Status After Transactions:
+Used Blocks:
+Name: c, Address: 200, Size: 800, Ref Count: 1
+Name: a, Address: 0, Size: 200, Ref Count: 2
+
+Free Blocks:

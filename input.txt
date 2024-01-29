@@ -1,0 +1,5 @@
+allocate a 200
+allocate b 300
+assign b a
+deallocate b
+allocate c 800
